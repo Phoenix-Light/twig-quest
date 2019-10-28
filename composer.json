@@ -1,0 +1,12 @@
+{
+    "name": "phoenix/quete_twig",
+    "authors": [
+        {
+            "name": "Olivier-Jamet",
+            "email": "olivierxavier.jamet@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.12"
+    }
+}
